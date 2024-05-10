@@ -45,19 +45,18 @@ window.onload = add_validation_links;
 }
 
 <main>
-<h1>The iPod Nano</h1>
+<h1>The iPod Shuffle</h1>
 
-<p>The Small compact version of the iPod that still had a screen, it was revolutionary as
-the amount of tech they were able to pack into such a small device.</p>
-<h2>Info about the iPod Nano</h2>
+<p>Even Smaller then the Nano, the Shuffle was a displayless iPod that functioned by
+Shuffling the music that was on it.</h2>
 <u1>
-<li> Released in September 7th, 2005</li>
-<li> The 7th Generation iPod Nano released in October 12th, 2012 was the thinnest, and is still thinner then most modern
-phones today. </li>
+<li> Released January 11th, 2005</li>
+<li> While it seemed dumb, it was quite innovative and allowed people with low incomes
+to be able to afford a MP3 device at 50$ </li>
 <li> Discontinued July 27th, 2017 </li?
 </u1>
 
-<a href="http://localhost:8090/iPod_Shuffle"> iPod Shuffle</a>
+<a href="http://localhost:8090/iPod_Touch"> iPod Touch</a>
 </main>
 
 <footer>

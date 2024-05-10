@@ -54,6 +54,7 @@ window.onload = add_validation_links;
 considered the iPod Classic for the 6th Generation </li>
 <li> Discontinued September 9th, 2014 on the 7th Generation</li?
 </u1>
+
 <a href="http://localhost:8090/iPod_Nano"> iPod Nano</a>
 </main>
 

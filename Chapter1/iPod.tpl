@@ -55,6 +55,7 @@ limited storage bulky MP3 players with a sleek, innovative, and revolutionary de
 <li> Competed with MP3 players such as the JukeBox, Rio, Creative, and Sandisk. </li>
 <li> Had better battery life, space efficiency, and ease of use compared to other MP3 Players </li?
 </u1>
+
 <a href="http://localhost:8090/iPod_Classic"> iPod Classic</a>
 </main>
 
